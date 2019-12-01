@@ -93,7 +93,7 @@ https://repl.it/@kinn5721/Guess-Who-1?fbclid=IwAR13mzIUYC4CSJ5m5Y_VV_tzADb9l-eZ-
 ---------------
 
 Our Python code is uploaded to:
-https://github.com/angelazb/CSCA20F19/blob/master/store/store.py
+https://github.com/royching97/CSCA20
 
 And out video is at:
-https://www.youtube.com/watch?v=oHg5SJYRHA0
+https://drive.google.com/open?id=1sYkNGfdPJ3CSPB3TjaGc4FY_QHlD6VfJ
